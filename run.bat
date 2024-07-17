@@ -1,8 +1,16 @@
 @echo off
-echo Changing directory to the batch file location
-cd /d %~dp0
-echo Running pytest
-pytest -v -s -m "sanity" --html=../reports/report.html test_cases/ --browser chrome
-rem pytest -v -s -m "sanity" --html=../reports/report.html test_cases/ --browser firefox
-echo Pytest finished
+cd /d "%~dp0"
+
+:: Option 1: Activate the virtual environment
+:: Uncomment and adjust the path to your virtual environment
+C:\Users\mahbu\PycharmProjects\hybrid_framework\.venv\Scripts\activate
+
+:: Option 2: Ensure Python and pytest are in the PATH
+:: Adjust the paths to your Python installation and Scripts directory
+set PATH=C:\Users\mahbu\AppData\Local\Programs\Python\Python311;C:\Users\mahbu\AppData\Local\Programs\Python\Python311\Scripts;%PATH%
+
+:: Run pytest with arguments
+pytest -v -s -m "regression" --html=../reports/report.html test_cases/ --browser chrome
+
 pause
+

@@ -10,7 +10,8 @@ def setup(browser):
         driver = webdriver.Firefox()
     else:
         driver = webdriver.Chrome()
-    return driver
+    yield driver
+    driver.quit()
 
 
 def pytest_addoption(parser):     # This will get the value from CLI/hooks
