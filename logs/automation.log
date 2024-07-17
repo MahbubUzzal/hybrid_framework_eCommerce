@@ -70,3 +70,75 @@
 07/17/2024 05:57:44 PM - root - INFO - ********  Login DDT test passed   *****
 07/17/2024 05:57:44 PM - root - INFO - ********  Login DDT test passed   *****
 07/17/2024 05:57:44 PM - root - INFO - ********  Login DDT test passed   *****
+07/17/2024 09:45:45 PM - root - INFO - ******  Test_003_AddCustomer   ******
+07/17/2024 09:45:45 PM - root - INFO - ******  Test_003_AddCustomer   ******
+07/17/2024 09:45:45 PM - root - INFO - ******  Test_003_AddCustomer   ******
+07/17/2024 09:45:45 PM - root - INFO - ******  Test_003_AddCustomer   ******
+07/17/2024 09:45:48 PM - root - INFO - ******  Login Successful  ******
+07/17/2024 09:45:48 PM - root - INFO - ******  Login Successful  ******
+07/17/2024 09:45:48 PM - root - INFO - ******  Login Successful  ******
+07/17/2024 09:45:48 PM - root - INFO - ******  Login Successful  ******
+07/17/2024 09:45:48 PM - root - INFO - ******  Starting Add Customer Test  ******
+07/17/2024 09:45:48 PM - root - INFO - ******  Starting Add Customer Test  ******
+07/17/2024 09:45:48 PM - root - INFO - ******  Starting Add Customer Test  ******
+07/17/2024 09:45:48 PM - root - INFO - ******  Starting Add Customer Test  ******
+07/17/2024 09:45:51 PM - root - INFO - ******  Providing customer info  ******
+07/17/2024 09:45:51 PM - root - INFO - ******  Providing customer info  ******
+07/17/2024 09:45:51 PM - root - INFO - ******  Providing customer info  ******
+07/17/2024 09:45:51 PM - root - INFO - ******  Providing customer info  ******
+07/17/2024 09:46:02 PM - root - INFO - ******  Add customer validation  ******* 
+07/17/2024 09:46:02 PM - root - INFO - ******  Add customer validation  ******* 
+07/17/2024 09:46:02 PM - root - INFO - ******  Add customer validation  ******* 
+07/17/2024 09:46:02 PM - root - INFO - ******  Add customer validation  ******* 
+07/17/2024 09:46:03 PM - root - INFO - ***** Add Customer Test Failed  ********
+07/17/2024 09:46:03 PM - root - INFO - ***** Add Customer Test Failed  ********
+07/17/2024 09:46:03 PM - root - INFO - ***** Add Customer Test Failed  ********
+07/17/2024 09:46:03 PM - root - INFO - ***** Add Customer Test Failed  ********
+07/17/2024 09:46:07 PM - root - INFO - ******  Test_001_login   ******
+07/17/2024 09:46:07 PM - root - INFO - ******  Test_001_login   ******
+07/17/2024 09:46:07 PM - root - INFO - ******  Test_001_login   ******
+07/17/2024 09:46:07 PM - root - INFO - ******  Test_001_login   ******
+07/17/2024 09:46:07 PM - root - INFO - ******  Verifying home page title   ******
+07/17/2024 09:46:07 PM - root - INFO - ******  Verifying home page title   ******
+07/17/2024 09:46:07 PM - root - INFO - ******  Verifying home page title   ******
+07/17/2024 09:46:07 PM - root - INFO - ******  Verifying home page title   ******
+07/17/2024 09:46:08 PM - root - INFO - ******  Home page title is passed   ******
+07/17/2024 09:46:08 PM - root - INFO - ******  Home page title is passed   ******
+07/17/2024 09:46:08 PM - root - INFO - ******  Home page title is passed   ******
+07/17/2024 09:46:08 PM - root - INFO - ******  Home page title is passed   ******
+07/17/2024 09:46:12 PM - root - INFO - ******  Verifying Login test ******
+07/17/2024 09:46:12 PM - root - INFO - ******  Verifying Login test ******
+07/17/2024 09:46:12 PM - root - INFO - ******  Verifying Login test ******
+07/17/2024 09:46:12 PM - root - INFO - ******  Verifying Login test ******
+07/17/2024 09:46:15 PM - root - INFO - ******  Login test is passed ******
+07/17/2024 09:46:15 PM - root - INFO - ******  Login test is passed ******
+07/17/2024 09:46:15 PM - root - INFO - ******  Login test is passed ******
+07/17/2024 09:46:15 PM - root - INFO - ******  Login test is passed ******
+07/17/2024 09:46:19 PM - root - INFO - ******  Test_002_DDT_login  ******
+07/17/2024 09:46:19 PM - root - INFO - ******  Test_002_DDT_login  ******
+07/17/2024 09:46:19 PM - root - INFO - ******  Test_002_DDT_login  ******
+07/17/2024 09:46:19 PM - root - INFO - ******  Test_002_DDT_login  ******
+07/17/2024 09:46:19 PM - root - INFO - ******  Verifying Login DDT test ******
+07/17/2024 09:46:19 PM - root - INFO - ******  Verifying Login DDT test ******
+07/17/2024 09:46:19 PM - root - INFO - ******  Verifying Login DDT test ******
+07/17/2024 09:46:19 PM - root - INFO - ******  Verifying Login DDT test ******
+07/17/2024 09:46:27 PM - root - INFO - ****** Passed  ******
+07/17/2024 09:46:27 PM - root - INFO - ****** Passed  ******
+07/17/2024 09:46:27 PM - root - INFO - ****** Passed  ******
+07/17/2024 09:46:27 PM - root - INFO - ****** Passed  ******
+07/17/2024 09:46:33 PM - root - INFO - ****** failed  ******
+07/17/2024 09:46:33 PM - root - INFO - ****** failed  ******
+07/17/2024 09:46:33 PM - root - INFO - ****** failed  ******
+07/17/2024 09:46:33 PM - root - INFO - ****** failed  ******
+07/17/2024 09:46:39 PM - root - INFO - ****** failed  ******
+07/17/2024 09:46:39 PM - root - INFO - ****** failed  ******
+07/17/2024 09:46:39 PM - root - INFO - ****** failed  ******
+07/17/2024 09:46:39 PM - root - INFO - ****** failed  ******
+07/17/2024 09:46:45 PM - root - INFO - ****** failed  ******
+07/17/2024 09:46:45 PM - root - INFO - ****** failed  ******
+07/17/2024 09:46:45 PM - root - INFO - ****** failed  ******
+07/17/2024 09:46:45 PM - root - INFO - ****** failed  ******
+07/17/2024 09:46:45 PM - root - INFO - ********  Login DDT test passed   *****
+07/17/2024 09:46:45 PM - root - INFO - ********  Login DDT test passed   *****
+07/17/2024 09:46:45 PM - root - INFO - ********  Login DDT test passed   *****
+07/17/2024 09:46:45 PM - root - INFO - ********  Login DDT test passed   *****
